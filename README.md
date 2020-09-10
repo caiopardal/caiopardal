@@ -4,12 +4,12 @@
 **caiopardal/caiopardal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hey 👋🏽, I'm [Caio Pardal!](https://caiopardal.github.io/personal-page) 
+### Hey 👋🏽, I'm [Caio Pardal!](https://caiopardal.github.io/) 
 
 <a href="https://twitter.com/PardalCaio">
   <img align="left" alt="Caio Pardal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/caio-henrique-pardal-2b7329166/">
+<a href="https://www.linkedin.com/in/caio-henrique-pardal">
   <img align="left" alt="Caio's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/pardalcaio">
@@ -33,7 +33,7 @@ Hi, My name is Caio Pardal. I have 22 years old and I'm from Guarulhos-SP. Nowad
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I love playing videogames, specially Call Of Duty;
 - 📫 How to reach me: pardal.henrique@gmail.com;
-- 📝[Personal-Curriculum-Page](https://caiopardal.github.io/personal-page)
+- 📝 [Personal-Curriculum-Page](https://caiopardal.github.io/)
 
 **Languages and Tools:**  
 
@@ -55,3 +55,5 @@ Hi, My name is Caio Pardal. I have 22 years old and I'm from Guarulhos-SP. Nowad
 
 
 ![Caio's github stats](https://github-readme-stats.vercel.app/api?username=caiopardal&show_icons=true&hide_border=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=caiopardal.caiopardal)
