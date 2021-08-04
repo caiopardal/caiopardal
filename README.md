@@ -22,14 +22,13 @@
 <br />
 <br />
 
-Hi, My name is Caio Pardal. I have 22 years old and I'm from Guarulhos-SP. Nowadays, I'm a Computer Engineering Student at University of Campinas and a Software Engineer at DieselBank. I'm fascinated by technology and inovation and I believe that inovation and creating new technologies are essential for our society. Do you want to know more about me? Just get in touch!
+Hi, My name is Caio Pardal. I have 23 years old and I'm from Guarulhos-SP. Nowadays, I'm a Computer Engineering Student at University of Campinas and a Software Engineer at Zippi. I'm fascinated by technology and inovation and I believe that inovation and creating new technologies are essential for our society. Do you want to know more about me? Just get in touch!
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently learning Clojure and Flutter; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I love playing videogames, specially Call Of Duty;
 - 📫 How to reach me: pardal.henrique@gmail.com;
