@@ -22,7 +22,7 @@
 <br />
 <br />
 
-Hi, My name is Caio Pardal. I have 23 years old and I'm from Guarulhos-SP. Nowadays, I'm a Computer Engineering Student at University of Campinas and a Software Engineer at Zippi. I'm fascinated by technology and inovation and I believe that inovation and creating new technologies are essential for our society. Do you want to know more about me? Just get in touch!
+Hi, My name is Caio Pardal. I have 24 years old and I'm from Guarulhos-SP. Nowadays, I'm a Computer Engineer and Computer Scientist who graduated from the University of Campinas (UNICAMP) and I work as a Software Engineer at Zippi. I'm fascinated by technology and inovation and I believe that inovation and creating new technologies are essential for our society. Do you want to know more about me? Just get in touch!
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
